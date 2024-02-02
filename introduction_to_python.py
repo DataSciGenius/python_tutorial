@@ -3,3 +3,4 @@ import seaborn as sns
 df = sns.load_dataset('titanic')
 df.head()
 df.columns
+df.shape
