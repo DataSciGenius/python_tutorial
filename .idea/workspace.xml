@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266adeae-c994-468d-954d-8c7b5c7c641b" name="Changes" comment="some codes were added" />
+    <list default="true" id="266adeae-c994-468d-954d-8c7b5c7c641b" name="Changes" comment="titanic was added." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706842289502</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="git repository was created">
+      <option name="closed" value="true" />
+      <created>1706843294158</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706843294158</updated>
+    </task>
+    <task id="LOCAL-00009" summary="titanic was added.">
+      <option name="closed" value="true" />
+      <created>1706843411376</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706843411376</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +147,8 @@
     <MESSAGE value="project was deleted." />
     <MESSAGE value="the file was inserted." />
     <MESSAGE value="some codes were added" />
-    <option name="LAST_COMMIT_MESSAGE" value="some codes were added" />
+    <MESSAGE value="git repository was created" />
+    <MESSAGE value="titanic was added." />
+    <option name="LAST_COMMIT_MESSAGE" value="titanic was added." />
   </component>
 </project>
