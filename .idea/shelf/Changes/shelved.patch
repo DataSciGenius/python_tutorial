@@ -1,0 +1,82 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"266adeae-c994-468d-954d-8c7b5c7c641b\" name=\"Changes\" comment=\"titanic was added.\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2bmyyoboQejjb9N4qttRxQu9ArV\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/musta/DataSciGenius&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;\r\n  }\r\n}</component>\r\n  <component name=\"PyConsoleOptionsProvider\">\r\n    <option name=\"myCommandQueueEnabled\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"266adeae-c994-468d-954d-8c7b5c7c641b\" name=\"Changes\" comment=\"\" />\r\n      <created>1706834806196</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1706834806196</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"introduction to Python file was added.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706839066542</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706839066542</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"df.hea was added.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706839424590</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706839424590</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"df.columns was added.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706840190780</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706840190780</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"df.shape was added.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706841264747</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706841264748</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"project was deleted.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706841408450</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706841408450</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"the file was inserted.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706842053428</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706842053429</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"some codes were added\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706842289502</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706842289502</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"git repository was created\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706843294158</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706843294158</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"titanic was added.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706843411376</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706843411376</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"10\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"introduction to Python file was added.\" />\r\n    <MESSAGE value=\"df.columns was added.\" />\r\n    <MESSAGE value=\"df.shape was added.\" />\r\n    <MESSAGE value=\"project was deleted.\" />\r\n    <MESSAGE value=\"the file was inserted.\" />\r\n    <MESSAGE value=\"some codes were added\" />\r\n    <MESSAGE value=\"git repository was created\" />\r\n    <MESSAGE value=\"titanic was added.\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"titanic was added.\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ca7e1481922d6db75c2e7fe0f503325dd4127003)
++++ b/.idea/workspace.xml	(date 1706843822454)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="266adeae-c994-468d-954d-8c7b5c7c641b" name="Changes" comment="titanic was added." />
++    <list default="true" id="266adeae-c994-468d-954d-8c7b5c7c641b" name="Changes" comment="the file was changed" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -25,16 +25,18 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/musta/DataSciGenius&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "git-widget-placeholder": "main",
++    "ignore.virus.scanning.warn.message": "true",
++    "last_opened_file_path": "C:/Users/musta/DataSciGenius",
++    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+   }
+-}</component>
++}]]></component>
+   <component name="PyConsoleOptionsProvider">
+     <option name="myCommandQueueEnabled" value="true" />
+   </component>
+@@ -126,7 +128,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1706843411376</updated>
+     </task>
+-    <option name="localTasksCounter" value="10" />
++    <task id="LOCAL-00010" summary="titanic was added.">
++      <option name="closed" value="true" />
++      <created>1706843456318</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1706843456318</updated>
++    </task>
++    <task id="LOCAL-00011" summary="the file was changed">
++      <option name="closed" value="true" />
++      <created>1706843768859</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1706843768859</updated>
++    </task>
++    <option name="localTasksCounter" value="12" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -149,6 +167,7 @@
+     <MESSAGE value="some codes were added" />
+     <MESSAGE value="git repository was created" />
+     <MESSAGE value="titanic was added." />
+-    <option name="LAST_COMMIT_MESSAGE" value="titanic was added." />
++    <MESSAGE value="the file was changed" />
++    <option name="LAST_COMMIT_MESSAGE" value="the file was changed" />
+   </component>
+ </project>
+\ No newline at end of file
